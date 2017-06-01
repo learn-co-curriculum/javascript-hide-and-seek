@@ -136,6 +136,7 @@ for that case, and not worry about a case where there are sibling nodes.
 **HINT**: Remember learning about breadth-first search? A similar technique
 might come in handy here.
 
+**HINT**:this doesn't exist
 Have fun, and good luck!
 
 ## Resources
@@ -144,3 +145,5 @@ Have fun, and good luck!
 - [document.querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 - [parseInt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
 - [Selectors](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Selectors)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-hide-and-seek'>Hide And Seek Lab </a> on Learn.co and start learning to code for free.</p>
